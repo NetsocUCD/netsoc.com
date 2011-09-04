@@ -1,0 +1,81 @@
+/** Structural **/
+@font-face {font-family:slant;src: url('font/slant.ttf');}
+html, body{min-height:100%;width:100%;font-family: 'Ubuntu', sans-serif;}
+#wrapper{
+	height: auto;
+	margin:auto;
+	display:block;
+	position:absolute;
+	top:0;
+	left:0;
+	width:100%;
+}
+/** END Structural **/
+
+/** Top Banner **/
+#banner_container{
+	height:60px;
+	color:#FFF;
+	top: 0px;
+	width:100%;
+	position:fixed;
+	background-color:#2D2D2D;
+	border-bottom: 3px solid #AAAAAA;
+}
+#banner{width:80%;margin:0 auto;}
+#logo{
+	font-family:slant;
+	font-size:60px;
+	float:left;
+}
+#menu {float:right;}
+ul {
+	font-family: Arial, Verdana;
+	font-size: 14px;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+ul li {
+	display: block;
+	position: relative;
+	float: left;
+}
+li ul { display: none; }
+ul li a {
+	display: block;
+	text-decoration: none;
+	color: #ffffff;
+	padding: 5px 15px 5px 15px;
+	margin-left: 1px;
+	white-space: nowrap;
+}
+ul li a:hover { background: #000000; }
+li:hover ul { display: block; position: absolute; }
+li:hover li { float: none; font-size: 11px; }
+li:hover a { background: #000000; }
+li:hover li a:hover { background: #000000; }
+/** END Top Banner **/
+
+/** Main Content **/
+#content{
+	margin-top:70px;
+	width:75%;
+	margin:0 auto;
+}
+/** END Main Content **/
+
+/** Sticky Footer **/
+#footer{
+	height:25px;
+	text-align:center;
+	color:#FFF;
+	font-size:10px;
+	clear:both;
+	bottom: 0px;
+	width:100%;
+	border-top: 3px solid #AAAAAA;
+	background-color:#2D2D2D;
+	position:fixed; /* Means that the footer is always visible even if the page is very long */
+}
+/** END Sticky Footer **/

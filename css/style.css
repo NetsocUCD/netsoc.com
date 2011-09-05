@@ -1,5 +1,5 @@
 /** Structural **/
-@font-face {font-family:slant;src: url('font/slant.ttf');}
+@font-face {font-family:slant; src: url('font/slant.ttf');}
 html, body{min-height:100%;width:100%;font-family: 'Ubuntu', sans-serif;}
 #wrapper{
 	height: auto;
@@ -45,12 +45,15 @@ li ul { display: none; }
 ul li a {
 	display: block;
 	text-decoration: none;
-	color: #ffffff;
+	color: #CCC;
 	padding: 5px 15px 5px 15px;
 	margin-left: 1px;
 	white-space: nowrap;
 }
-ul li a:hover { background: #000000; }
+ul li a:hover { background: #000000;
+				color:#FFFFFF; 
+				}
+ul li a.open{ color: #FFFFFF; font-weight: bold;}
 li:hover ul { display: block; position: absolute; }
 li:hover li { float: none; font-size: 11px; }
 li:hover a { background: #000000; }
@@ -78,4 +81,28 @@ li:hover li a:hover { background: #000000; }
 	background-color:#2D2D2D;
 	position:fixed; /* Means that the footer is always visible even if the page is very long */
 }
-/** END Sticky Footer **/
+
+#footer a:link    {
+  /* Applies to all unvisited links */
+  text-decoration:  none;
+  font-weight:      bold;
+  color:            #FFF;
+  } 
+#footer a:visited {
+  /* Applies to all visited links */
+  text-decoration:  none;
+  font-weight:      bold;
+  color:            #FFF;
+  } 
+#footer a:hover   {
+  /* Applies to links under the pointer */
+  text-decoration:  underline;
+  font-weight:      bold;
+  color:            #FFF
+  } 
+#footer a:active  {
+  /* Applies to activated links */
+  text-decoration:  underline;
+  font-weight:      bold;
+  color: #FFF;
+  }

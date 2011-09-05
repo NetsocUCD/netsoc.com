@@ -1,50 +1,11 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Netsoc</title>
-		<link href='http://fonts.googleapis.com/css?family=Ubuntu:400,700' rel='stylesheet' type='text/css'>
-		<link rel="stylesheet" type="text/css" href="css/style.css" />
+		<?php include("head.php"); ?>
 	</head>
 	<body>
 		<div id="wrapper">
-			<div id="banner_container">
-				<div id="banner">
-					<span id="logo">NetSoc</span>
-					<ul id="menu">
-						<li><a href="">About</a>
-							<ul>
-								<li><a href="">Committee</a></li>
-								<li><a href="">Constituion </a></li>
-								<li><a href="">History</a></li>
-							</ul>
-						</li>
-						<li><a href="">Services</a>
-							<ul>
-								<li><a href="">Hosting</a></li>
-								<li><a href="">Storage</a></li>
-								<li><a href="">Gaming</a></li>
-								<li><a href="">VPN</a></li>
-								<li><a href="">VPS</a></li>
-							</ul>
-						</li>
-						<li><a href="">Community</a>
-							<ul>
-								<li><a href="">Contact</a></li>
-								<li><a href="">IRC</a></li>
-								<li><a href="">Wiki</a></li>
-								<li><a href="">Events</a></li>
-							</ul>
-						</li>
-						<li><a href="">Help</a>
-							<ul>
-								<li><a href="">FAQ</a></li>
-								<li><a href="">Tutorials</a></li>
-								<li><a href="">Events</a></li>
-							</ul>
-						</li>
-					</ul>
-				</div>
-			</div>
+			<?php include("header.php"); ?>
 			<div id="content">
 				<h1>herp derp.</h1>
 				<p>
@@ -75,9 +36,7 @@
 					Sed vulputate condimentum viverra. Suspendisse pellentesque, est nec accumsan facilisis, nulla leo rhoncus felis, ut viverra dui augue eget nibh. Duis at dolor non enim ultricies convallis at non velit. Proin in vulputate est. Donec commodo lacus eu urna tristique dapibus. Proin dictum lectus non lacus dapibus porta molestie justo interdum. Donec erat diam, molestie sit amet mattis ac, ullamcorper in lacus. In cursus mauris eu tellus malesuada non bibendum erat tristique. Sed suscipit tristique nunc, sed porta turpis facilisis vitae. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Integer laoreet tellus et ante venenatis pretium. Duis quis tincidunt mauris. Nulla facilisi. Sed nunc nibh, lobortis quis interdum sit amet, porttitor et justo. Curabitur dapibus tincidunt tellus, nec sagittis dui scelerisque vel.
 				</p>
 			</div>
-			<div id="footer">
-				<p>Site design / logo &copy; Netsoc 2011. Third party contributions licensed under <a href="http://creativecommons.org/licenses/by-sa/3.0/"> cc.wiki</a>.<p>
-			</div>
+			<?php include("footer.php"); ?>
 		</div>
 	</body>
 </html>

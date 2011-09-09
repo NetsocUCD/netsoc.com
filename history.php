@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html>
-	<!-- Use this as a template for creating new web pages. -->
-	<head>
-		<?php include("head.php"); ?>
-	</head>
+<?php include("head.php"); ?>
 	<body>
 		<div id="wrapper">
 			<?php include("header.php"); ?>

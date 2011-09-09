@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html>
-	<!-- Use this as a template for creating new web pages. -->
-	<head>
-		<?php include("head.php"); ?>
-	</head>
+<?php include("head.php"); ?>
 	<body>
 		<div id="wrapper">
 			<?php include("header.php"); ?>
@@ -25,7 +20,7 @@
 				<p>Accessing your account is deemed acceptance of these Terms & Conditions.Please note that Netsoc may terminate your account without notice at any time for any breach of these Terms.</p>
 				<ul>
 				<li>You will be responsible for the content of your pages, including obtaining the legal permission for any and all works which they include, and also ensuring that the contents of these pages does not violate Irish, European or International law. Netsoc shall not be responsible for any illegal or infringing material posted in served websites. Further to this, where a third party confirms illegal activity on a customers served site, Netsoc may at its sole discretion, contact the member immediately, and begin an investigation into same. Any and all services may be suspended while this investigation takes place. Netsoc will make all efforts to conduct any investigation without delay, and will not be responsible or liable for any loss, damage, whether general or consequential caused by same. Where Netsoc considers material on the site as illegal, defamatory or abusive they shall, at their sole discretion terminate services.</li>
-<li> You're also bound by UCD's <a href="http://www.ucd.ie/itservices/itsupport/acceptableusage/#d.en.70461">acceptable usage policy.</a></li>
+				<li> You're also bound by UCD's <a href="http://www.ucd.ie/itservices/itsupport/acceptableusage/#d.en.70461">acceptable usage policy.</a></li>
 <li>Your server (inc FTP and Shell access) is for your personal use only. You must not divulge the password to any other person, and you should take reasonable precautions to ensure that it is not discovered by other people. If this is compromised you must take your own appropriate action.
 Data stored on our servers is not guaranteed to be backed up. It is recommended that you keep an independent backup of all data stored on your virtual server or shared hosting account. Netsoc accept no responsibility for any loss of data, however incurred.</li>
 <li>It is the Users sole responsibility to keep all files, date, passwords, etc, secure at all times. Further to this, any security applications, or security details of the user, must be kept at the users own risk, and kept up to date, so that protection is afforded for both the User and the Society. The Society will not be held responsible for damage, loss or injury caused, due to insufficient or out of date security measures held by the User.</li>

@@ -20,18 +20,11 @@ html, body{min-height:100%;width:100%;font-family: 'Ubuntu', sans-serif;}
 	width:100%;
 	position:relative;
 	background-color:#2D2D2D;
-	border-bottom: 3px solid #AAAAAA;
+	border-bottom: 0.2em solid #AAAAAA;
 }
-#banner{width:80%;margin:0 auto;}
-#logo{
-	font-family:slant;
-	font-size:60px;
-	float:left;
-}
-#logo a{
-    text-decoration:none;
-    color: #FFF;
-}
+#banner { width:80%; margin:0 auto;}
+#logo { font-family:slant; font-size:60px; float:left; }
+#logo a { text-decoration:none; color: #FFF; }
 #menu {float:right;}
 #banner_container ul {
 	font-family: Arial, Verdana;
@@ -40,11 +33,7 @@ html, body{min-height:100%;width:100%;font-family: 'Ubuntu', sans-serif;}
 	padding: 0;
 	list-style: none;
 }
-#banner_container ul li {
-	display: block;
-	position: relative;
-	float: left;
-}
+#banner_container ul li { display: block; position: relative; float: left; }
 #banner_container li ul { display: none; }
 #banner_container ul li a {
 	display: block;
@@ -54,14 +43,22 @@ html, body{min-height:100%;width:100%;font-family: 'Ubuntu', sans-serif;}
 	margin-left: 1px;
 	white-space: nowrap;
 }
-#banner_container ul li a:hover { background: #000000;
-				color:#FFFFFF; 
-				}
+#banner_container ul li a:hover { background: #000000;color:#FFFFFF;}
 #banner_container ul li a.open{ color: #FFFFFF; font-weight: bold;}
 #banner_container li:hover ul { display: block; position: absolute; }
 #banner_container li:hover li { float: none; font-size: 11px; }
 #banner_container li:hover a { background: #000000; }
 #banner_ container li:hover li a:hover { background: #000000; }
+#alert {
+	float:right;
+	max-width:12em;
+	min-height:0em;
+	border:solid 0.1em #DEDEDE; 
+	background:#EFEFEF;
+	color:#222222;
+	padding:4px;
+	text-align:center;
+}
 /** END Top Banner **/
 
 /** Main Content **/
@@ -70,6 +67,7 @@ html, body{min-height:100%;width:100%;font-family: 'Ubuntu', sans-serif;}
 	margin:auto;
 	padding-bottom: 30px;
 }
+blockquote {/*le quoted message */font-style:italic;}
 /** END Main Content **/
 
 /** Sticky Footer **/
@@ -81,36 +79,32 @@ html, body{min-height:100%;width:100%;font-family: 'Ubuntu', sans-serif;}
 	clear:both;
 	bottom: 0px;
 	width:100%;
-	border-top: 3px solid #AAAAAA;
+	border-top:0.2em solid #AAAAAA;
 	background-color:#2D2D2D;
 	position:fixed; /* Means that the footer is always visible even if the page is very long */
 }
 
 #footer a:link    {
-  /* Applies to all unvisited links */
-  text-decoration:  none;
-  font-weight:      bold;
-  color:            #FFF;
-  } 
+	/* Applies to all unvisited links */
+	text-decoration:  none;
+	font-weight:      bold;
+	color:            #FFF;
+} 
 #footer a:visited {
-  /* Applies to all visited links */
-  text-decoration:  none;
-  font-weight:      bold;
-  color:            #FFF;
-  } 
+	/* Applies to all visited links */
+	text-decoration:  none;
+	font-weight:      bold;
+	color:            #FFF;
+} 
 #footer a:hover   {
-  /* Applies to links under the pointer */
-  text-decoration:  underline;
-  font-weight:      bold;
-  color:            #FFF
-  } 
+	/* Applies to links under the pointer */
+	text-decoration:  underline;
+	font-weight:      bold;
+	color:            #FFF
+} 
 #footer a:active  {
-  /* Applies to activated links */
-  text-decoration:  underline;
-  font-weight:      bold;
-  color: #FFF;
-  }
-blockquote{
-/*le quoted message */
-    font-style:italic;
+	/* Applies to activated links */
+	text-decoration:  underline;
+	font-weight:      bold;
+	color: #FFF;
 }

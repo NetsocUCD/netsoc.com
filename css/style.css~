@@ -68,7 +68,6 @@ html, body{min-height:100%;width:100%;font-family: 'Ubuntu', sans-serif;}
 #content{
 	width:65%;
 	margin:auto;
-	padding-bottom: 30px;
 }
 /** END Main Content **/
 

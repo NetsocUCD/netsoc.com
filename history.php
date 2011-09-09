@@ -11,7 +11,8 @@
 				<h1>History</h1>
 				<p>This is what one of our previous Auditors wrote about the founding of Netsoc :</p>
  
-				<p>Once upon a time long long ago there lived a bunch of wasters who were mainly found in the
+				<blockquote>
+				<p>"Once upon a time long long ago there lived a bunch of wasters who were mainly found in the
 				bowels of UCD (Computer labs to the uninitiated). The guys were Niall Richard Murphy, and Stephen Fegan, who by funny
 				coincidence all happened to share the same names as the guys who were the first two Netsoc Auditors.</p>
 
@@ -37,9 +38,9 @@
 				money to throw away because they gave Netsoc over £2,000. I still haven't met the society's fairy godmother but she was
 				definitely looking out for Netsoc back then. Dr. Dennis Jennings and Dr. Niall O'Reilly of Computing Services were
 				amazingly supportive when Steve and Niall went to talk to them about Netsoc. They got the go ahead to give accounts to a
-				limited number of people during Fresher's week 1995. And that's how Netsoc started.</p>
-
-				<p>So, 16 years after our humble beginning where are we now? With the original mandate to provide Internet access to the college populous being filled,
+				limited number of people during Fresher's week 1995. And that's how Netsoc started."</p>
+				</blockquote>
+				<p>It's been over 16 years since our humble beginning where are we now? With the original mandate to provide Internet access to the college populous being filled,
  		 		Netsoc has evolved by providing a varying range of services. Netsoc provides its members with accounts on its servers, hosting space on UCD's network
   	 			for developing websites and personal projects as well as system administration training. We also host various tech talks and tutorials on all things 
    				technology. Previously this has included web site design, PC building and programming talks, amongst others.</p>

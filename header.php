@@ -8,7 +8,7 @@
 					<!--<li><a href="">Committee</a></li>-->
 					<li><a href="const.php">Constituion </a></li>
 					<li><a href="history.php">History</a></li>
-					<li><a href="aug.php">Acceptable Usage Policy</a></li>
+					<li><a href="aup.php">Acceptable Usage Policy</a></li>
 				</ul>
 			</li>
 			<li><a href="minecraft.php">Minecraft</a>

@@ -9,7 +9,7 @@
 					<li><a href="const.php">Constituion </a></li>
 					<li><a href="history.php">History</a></li>
 					<li><a href="aup.php">Acceptable Usage Policy</a></li>
-					<li><a href="pp.php"> Privacy Policy</li>
+					<li><a href="pp.php"> Privacy Policy</a></li>
 				</ul>
 			</li>
 			<li><a href="minecraft.php">Minecraft</a>

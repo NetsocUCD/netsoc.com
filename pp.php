@@ -51,14 +51,7 @@ We may provide Non-Personal Data to third parties, where such information is com
 
 <h3>7.	Changes to the Website Privacy Policy</h3>
 
-<p>Any changes to this Website Privacy Policy will be posted on this website so you are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any time we decide to use Personal Data in a manner significantly different from that stated in this Website Privacy Policy, or otherwise disclosed to you at the time it was collected, we will notify you by email, and you will have a choice as to whether or not we use your information in the new manner.</p>
-
-<p>We retain two types of information:</p>
-<p>	"Personal Data" </p>
-<p>This is data that identifies you or can be used to identify or contact you and may include your name and email address. Such information is only collected from you if you voluntarily submit it to us.</p>
-<p>"	"Non-Personal Data"</p>
-<p>Like most websites, we gather statistical and other analytical information collected on an aggregate basis of all visitors to our website. This Non-Personal Data comprises information that cannot be used to identify or contact you, such as demographic information regarding, for example, user IP addresses where they have been clipped or anonymised, browser types and other anonymous statistical data involving the use of our website.</p>
-			</div>
+<p>Any changes to this Website Privacy Policy will be posted on this website so you are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any time we decide to use Personal Data in a manner significantly different from that stated in this Website Privacy Policy, or otherwise disclosed to you at the time it was collected, we will notify you by email, and you will have a choice as to whether or not we use your information in the new manner.</p>		</div>
 			<?php include("footer.php"); ?>
 		</div>
 	</body>

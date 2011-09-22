@@ -40,5 +40,4 @@
 <div id="alert">
 	<h3>Notice</h3>
 	<p>Website is currently under heavy construction. Beware of falling objects.</p>
-	<p>Services currently coming online. Beware of falling creepers.</p>
 </div>

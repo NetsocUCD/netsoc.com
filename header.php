@@ -9,6 +9,7 @@
 					<li><a href="const.php">Constituion </a></li>
 					<li><a href="history.php">History</a></li>
 					<li><a href="aup.php">Acceptable Usage Policy</a></li>
+					<li><a href="pp.php"> Privacy Policy</li>
 				</ul>
 			</li>
 			<li><a href="minecraft.php">Minecraft</a>
@@ -39,4 +40,5 @@
 <div id="alert">
 	<h3>Notice</h3>
 	<p>Website is currently under heavy construction. Beware of falling objects.</p>
+	<p>Services currently coming online. Beware of falling creepers.</p>
 </div>

@@ -5,37 +5,38 @@
 		<ul id="menu">
 			<li><a href="">About</a>
 				<ul>
-					<li><a href="">Committee</a></li>
+					<!--<li><a href="">Committee</a></li>-->
 					<li><a href="const.php">Constituion </a></li>
 					<li><a href="history.php">History</a></li>
+					<li><a href="aug.php">Acceptable Usage Policy</a></li>
 				</ul>
 			</li>
-			<li><a href="">Services</a>
-				<ul>
+			<li><a href="minecraft.php">Minecraft</a>
+				<!--<ul>
 					<li><a href="">Web Hosting</a></li>
 					<li><a href="">File Storage</a></li>
 					<li><a href="">Gaming</a></li>
-				</ul>
+				</ul>-->
 			</li>
+			<li><a href="events.php">Events</a>
 			<li><a href="">Community</a>
 			       <ul>
-					<li><a href="">Contact</a></li>
+					<!--<li><a href="">Contact</a></li>-->
 					<li><a href="http://chat.netsoc.com">IRC</a></li>
-					<li><a href="">Wiki</a></li>
-					<li><a href="">Events</a></li>
+					<li><a href="http://www.netsoc.com/wiki/">Wiki</a></li>
 				</ul>
 			</li>
-			<li><a href="">Help</a>
-				<ul>
+			<li><a href="faq.php">FAQ</a>
+				<!--<ul>
 					<li><a href="faq.php">FAQ</a></li>
-					<li><a href="">Tutorials</a></li>
+					li><a href="">Tutorials</a></li>
 					<li><a href="">Events</a></li>
-				</ul>
+				</ul>-->
 			</li>
 		</ul>
 	</div>
 </div>
 <div id="alert">
-	<h3>Notice of server maintance</h3>
-	<p>Holl oasnthoa eusntohue soatnuh saontuh aosuth oaseutnh osutnh osunth aosuetnh aosuenth oseunht ontsu hosnue thoasuenth oasunth oasuetnh aosunth oeustnhao usnthao eusntoahu saonthu aostnuh oasunth aosunt haous ntaoh u</p>
+	<h3>Notice</h3>
+	<p>Website is currently under heavy construction. Beware of falling objects.</p>
 </div>

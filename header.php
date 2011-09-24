@@ -12,12 +12,12 @@
 					<li><a href="pp.php"> Privacy Policy</a></li>
 				</ul>
 			</li>
-			<li><a href="minecraft.php">Minecraft</a>
-				<!--<ul>
-					<li><a href="">Web Hosting</a></li>
-					<li><a href="">File Storage</a></li>
-					<li><a href="">Gaming</a></li>
-				</ul>-->
+			<li><a href="">Services</a>
+				<ul>
+					<li><a href="hosting.php">Web Hosting</a></li>
+					<li><a href="http://mail.netsoc.com">Mail</a></li>
+					<li><a href="games.php">Games / VOIP</a></li>
+				</ul>
 			</li>
 			<li><a href="events.php">Events</a>
 			<li><a href="">Community</a>
@@ -39,5 +39,7 @@
 </div>
 <div id="alert">
 	<h3>Notice</h3>
-	<p>Website is currently under heavy construction. Beware of falling objects.</p>
+	<p>IRC is currently down. Back Monday.</p>
+	<h3>Notice</h3>
+	<p>Website under construction</p>
 </div>

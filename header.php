@@ -39,7 +39,5 @@
 </div>
 <div id="alert">
 	<h3>Notice</h3>
-	<p>IRC is currently down. Back Monday.</p>
-	<h3>Notice</h3>
 	<p>Website under construction</p>
 </div>

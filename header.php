@@ -5,7 +5,7 @@
 		<ul id="menu">
 			<li><a href="">About</a>
 				<ul>
-					<!--<li><a href="">Committee</a></li>-->
+					<li><a href="committee.php">Committee</a></li>
 					<li><a href="const.php">Constituion </a></li>
 					<li><a href="history.php">History</a></li>
 					<li><a href="aup.php">Acceptable Usage Policy</a></li>
@@ -23,7 +23,7 @@
 			<li><a href="">Community</a>
 			       <ul>
 					<!--<li><a href="">Contact</a></li>-->
-					<li><a href="http://chat.netsoc.com">IRC</a></li>
+					<li><a href="http://zeus.ucd.ie:9090">IRC</a></li>
 					<li><a href="http://www.netsoc.com/wiki/">Wiki</a></li>
 				</ul>
 			</li>

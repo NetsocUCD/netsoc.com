@@ -108,3 +108,21 @@ blockquote {/*le quoted message */font-style:italic;}
 	font-weight:      bold;
 	color: #FFF;
 }
+/* These id's are used in 2 column layout pages */
+#list-container{
+	width:600px;
+}
+#right{
+	float: right;
+	width: 250px;
+}
+#left{
+	float: left;
+	width 250px;
+}
+#right p{
+	padding-bottom: 5px;
+}
+#left p{
+	padding-bottom: 5px;
+}

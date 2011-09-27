@@ -110,15 +110,19 @@ blockquote {/*le quoted message */font-style:italic;}
 }
 /* These id's are used in 2 column layout pages */
 #list-container{
-	width:600px;
+	width:800px;
 }
 #right{
 	float: right;
-	width: 250px;
+	width: 300px;
+	padding-right:50px;
+	padding-bottom:50px;
 }
 #left{
 	float: left;
-	width 250px;
+	width 300px;
+	padding-right:50px;
+	padding-bottom:50px;
 }
 #right p{
 	padding-bottom: 5px;

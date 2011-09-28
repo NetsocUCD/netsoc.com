@@ -38,6 +38,6 @@
 	</div>
 </div>
 <div id="alert">
-	<h3>Notice</h3>
-	<p>Website under construction</p>
+	<h3>IRC Downtime</h3>
+	<p>The IRC server will be up and down throughout today for scheduled maintenance.</p>
 </div>

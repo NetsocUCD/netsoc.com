@@ -35,7 +35,7 @@
 						<p> Name: Sam Dunne <br/>
 						Position: System Administrator (IRC, SCM n' stuff) <br/>
  						Course/Year: Computer Science BSc 2nd year <br/>
-						Contact: sam.dunne[at]ucdconnect[dot]ie</p>
+						Contact: sam[at]netsoc[dot]com</p>
 					</div>
 				</div>
 			</div>

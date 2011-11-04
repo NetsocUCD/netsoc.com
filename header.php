@@ -38,6 +38,6 @@
 	</div>
 </div>
 <div id="alert">
-	<h3>IRC Downtime</h3>
-	<p>The IRC server will be up and down throughout today for scheduled maintenance.</p>
+	<h3>New IRC Network</h3>
+	<p>We are now linked up with Intersocs. We will send instructions to members soon on how to connect.</p>
 </div>

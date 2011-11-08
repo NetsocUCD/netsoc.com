@@ -6,6 +6,7 @@
 		<title>Netsoc</title>
 		<link href='http://fonts.googleapis.com/css?family=Ubuntu:400,700' rel='stylesheet' type='text/css'>
 		<link rel="stylesheet" type="text/css" href="css/style.css" />
+		<link href="https://plus.google.com/117765251083744498766/" rel="publisher" />
 		<script type="text/javascript">
 
   var _gaq = _gaq || [];

@@ -11,7 +11,8 @@
 				<a href="http://chat.netsoc.com">chat</a> with us.</p>
 
 				<h1>G+</h1>
-				<p> Now follow us on Google+ <a href="https://plus.google.com/117765251083744498766/?prsrc=3" style="text-decoration:none;">
+				<p> Now follow us on Google+ <br />
+				<a href="https://plus.google.com/117765251083744498766/?prsrc=3" style="text-decoration:none;">
 				<img src="https://ssl.gstatic.com/images/icons/gplus-64.png" width="64" height="64" style="border: 0;"></img></a>
 			</div>
 			<?php include("footer.php"); ?>

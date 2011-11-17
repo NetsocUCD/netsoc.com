@@ -4,8 +4,8 @@
 			<?php include("header.php"); ?>
             <div id="content">
                 <h1>Diaspora</h1>
-                <p> UCD Netsoc has just set up their own <a href="http://diasporafoundation.org/">Diaspora pod</a>. We are the first diaspora pod in Ireland and would like everyone to use it.
-                    <a href="http://diaspora.ucd.ie:3000">Join here!</a>
+                <p> UCD Netsoc has just set up their own <a href="http://diasporafoundation.org/">Diaspora pod</a>. We are the first diaspora pod in Ireland and would like everyone to use it.<br />
+                    <a href="http://diaspora.netsoc.com:3000">Join here!</a>
                 </p>
 
 				<h1>Welcome!</h1>
